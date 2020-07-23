@@ -174,6 +174,7 @@ Useful articles and learning resources.
 - [Cracking the Coding Interview](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvFsH-DaFmAmdJboAnbg08P), by Gayle Laakmann McDowell
 - [CS50 Lectures 2019](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1FnW), by David J. Malan
 - [Streamelopers](http://bit.ly/streamelopersub) Community tech talks in spanish
+- [Learn React JS](https://www.youtube.com/watch?v=DLX62G4lc44) Full course for beginners by freeCodeCamp.org
 </details>
 
 <details>
